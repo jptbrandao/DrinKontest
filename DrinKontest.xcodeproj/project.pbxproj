@@ -16,6 +16,7 @@
 		16C770121A769FEA0083C658 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16C770111A769FEA0083C658 /* Images.xcassets */; };
 		16C770151A769FEA0083C658 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 16C770131A769FEA0083C658 /* LaunchScreen.xib */; };
 		16C770211A769FEA0083C658 /* DrinKontestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C770201A769FEA0083C658 /* DrinKontestTests.m */; };
+		16C7702B1A769FF30083C658 /* derp.png in Resources */ = {isa = PBXBuildFile; fileRef = 16C7702A1A769FF30083C658 /* derp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		16C7701A1A769FEA0083C658 /* DrinKontestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrinKontestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16C7701F1A769FEA0083C658 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16C770201A769FEA0083C658 /* DrinKontestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrinKontestTests.m; sourceTree = "<group>"; };
+		16C7702A1A769FF30083C658 /* derp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = derp.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		16C76FFF1A769FEA0083C658 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				16C7702A1A769FF30083C658 /* derp.png */,
 				16C770001A769FEA0083C658 /* Info.plist */,
 				16C770011A769FEA0083C658 /* main.m */,
 			);
@@ -208,6 +211,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				16C770151A769FEA0083C658 /* LaunchScreen.xib in Resources */,
+				16C7702B1A769FF30083C658 /* derp.png in Resources */,
 				16C770121A769FEA0083C658 /* Images.xcassets in Resources */,
 				16C7700A1A769FEA0083C658 /* GameScene.sks in Resources */,
 				16C770101A769FEA0083C658 /* Main.storyboard in Resources */,
